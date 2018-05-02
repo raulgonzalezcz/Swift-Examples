@@ -1,0 +1,46 @@
+ [
+  
+  
+  
+  {
+  
+  "UIButton_double_values": {
+  "r": 0.4,
+  "g": 1.0,
+  "b": 0.2,
+  "alpha": 0.5,
+  "x": 200,
+  "y": 400,
+  "width": 100,
+  "height": 100
+  
+  },
+  "title": "hello World",
+  "hidden": false,
+  "focused": true,
+  "UILabel": {
+  "r": 1.4,
+  "g": 1.0,
+  "b": 0.2,
+  "alpha": 0.5,
+  "x": 200,
+  "y": 200,
+  "width": 100,
+  "height": 50
+  
+  },
+  "title_label": "I'm a label",
+  "UITextField": {
+  "r": 0.4,
+  "g": 1.0,
+  "b": 0.2,
+  "alpha": 0.5,
+  "x": 50,
+  "y": 50,
+  "width": 200,
+  "height": 30
+  }
+  }
+  
+  
+  ]
